@@ -8,7 +8,6 @@ fun main() {
     val b = 5
     val result2 = max(a, b)
     println(result2)
-    println("=======")
     outfunc("genie")
 }
 
