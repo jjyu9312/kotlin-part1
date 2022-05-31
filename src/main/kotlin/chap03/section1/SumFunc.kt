@@ -19,5 +19,6 @@ fun max(a: Int, b: Int): Int {
 
 fun outfunc(name: String): Unit { // return이 없는 형태 == void
     println("name: $name")
+    println()
     // return Unit 숨겨져있음
 }
